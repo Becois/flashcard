@@ -9,3 +9,11 @@ footer {
     position:fixed;
     width:100%;
 }
+
+footer {
+    background-color: black;
+    color: white;
+    height:2rem;
+    margin-top: 0,5rem;
+
+}
