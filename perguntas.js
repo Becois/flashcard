@@ -19,5 +19,5 @@ criaCartao(
 criaCartao(
     'Lingua inglesa',
     'Como se diz bom dia em inglês?',
-    'Oi em ingles é GOODMORNING'
+    'Bom Dia em ingles é GOODMORNING'
 )
